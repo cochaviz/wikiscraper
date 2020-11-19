@@ -11,15 +11,10 @@ Some 3rd party packages are required for the wikiscraper to work
  - urllib
  - bs4
  - lxml
- 
 
-If you're using Ubuntu:
+Ubuntu: `pip3 install urllib3 bs4 lxml`
 
-`pip3 install urllib3 bs4 lxml`
-
-Otherwise:
-
-`pip install urllib3 bs4 lxml`
+Otherwise: `pip install urllib3 bs4 lxml`
 
 > If you don't use pip, good luck!
 
