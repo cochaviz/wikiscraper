@@ -4,7 +4,7 @@ Wikipedia scraper for the terminal
 ### Installation
 Give the program the appropriate permissions:
 
-`chmod +x ./wikiscraper`
+`chmod +x ./wikiscraper.py`
 
 ### Dependencies
 Some 3rd party packages are required for the wikiscraper to work
